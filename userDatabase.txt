@@ -1,0 +1,120 @@
+Ahkello
+Witherspoon
+awitherspoon
+awaw662
+Colorado University
+0
+Football,Cooking,Cars,
+<USER>
+Jimmy
+Garoppolo
+jgaroppolo
+bestqb123
+Eastern Illinois University
+1
+Baseball,Literature,Hunting,
+<USER>
+Kyle
+Juszczyk
+kjuszczyk
+Harvard
+2
+0
+<USER>,
+<USER>
+Carlos
+Hyde
+chyde
+noway87
+Ohio State University
+3
+Hockey,Fashion,Photography,
+<USER>
+Marquise
+Goodwin
+mgoodwin
+mgut321
+Texas University
+4
+Basketball,Fashion,Technology,
+<USER>
+George
+Kittle
+gkittle
+kittykat00
+Iowa University
+5
+Basketball,Cooking,Film,
+<USER>
+Trent
+Brown
+tbrown
+tbtb2018
+Florida
+6
+Hockey,Fashion,Film,
+<USER>
+Brandon
+Fusco
+bfusco
+fuuuuus777
+Slippery Rock University
+7
+Baseball,Cooking,Technology,
+<USER>
+Daniel
+Kilgore
+dkilgore
+killll012
+Appalachian State University
+8
+Football,Fashion,Photography,
+<USER>
+Laken
+Tomlinson
+ltomlinson
+lt1213144
+Duke University
+9
+Basketball,Games,Film,
+<USER>
+Joe
+Staley
+jstaley
+jojo5487
+Central Michigan University
+10
+Baseball,Literature,Photography,
+<USER>
+Louis
+Murphy
+lmurphy
+loui0330
+Florida University
+11
+Travelling,Games,Cooking,
+<USER>
+Eric 
+Reid
+ereid
+lsu4life
+LSU
+12
+Baseball,Games,Cars,
+<USER>
+Adrian
+Colbert
+acolbert
+miami205
+Miamiz
+13
+Football,Fashion,Travelling,
+<USER>
+Dontae
+Johnson
+djohnson
+dontaeJ2020
+North Carolina University
+14
+Football,Games,Music,
+<USER>
